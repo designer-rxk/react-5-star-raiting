@@ -1,0 +1,13 @@
+.App {
+  width:100vw;
+  height:100vh;
+}
+.starList{
+  display: flex;
+}
+.starListItem{
+  display: flex;
+}
+.yellowStar{
+  fill: #de1515;
+}
